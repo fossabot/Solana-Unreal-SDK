@@ -2,6 +2,7 @@
 
 
 ![bifrost-solana](https://github.com/Bifrost-Technologies/Solana-Unreal-SDK/assets/24855008/fbd7075b-2d04-487d-aba3-5147e8aa327e)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2FSolana-Unreal-SDK.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2FSolana-Unreal-SDK?ref=badge_shield)
 
 
 
@@ -84,3 +85,7 @@ C++ GameMode template code
 ![image](https://github.com/Bifrost-Technologies/Solana-Unreal-SDK/assets/24855008/d208c5fb-4c99-485c-9e9d-b0bab5f4249e)
 
 These are starting points for a dedicated global server with Solana integration. For building fully on-chain games it will require Unreal SOLNET & a linkstream wrapper
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2FSolana-Unreal-SDK.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2FSolana-Unreal-SDK?ref=badge_large)
